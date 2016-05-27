@@ -6,7 +6,7 @@ import haxe.io.Input;
 
 /**
  * ...
- * @author Moshe Feu=it
+ * @author Moshe Feit
  */
 
 class Main 
