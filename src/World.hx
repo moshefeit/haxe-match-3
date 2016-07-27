@@ -64,9 +64,7 @@ class World extends FlxState
 		drawTimer();
 		computeDifficulty();
 		generation();
-		
-		
-		
+		checkGameOver();		
 	}
 	
 	private function initialize(a):Void

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<text name="title" center_x="50" y="200" font="OleoScript-Bold" size="40" style="bold" color="0x232323" outline="0x232323"/>
+	
+	<definition name="notice" font="OleoScript-Bold" size="22" color = "0x232323" center_x="true" center_y="true">
+		<record>
+			<text name="text1" color="0xcc0000" text="DOUBLE CLICK "/>
+			<text name="text2" text="Restart Button<br/>to "/>
+			<text name="text3" color="0xcc0000" text="RESTART "/>
+			<text name="text4" text="the game"/>
+		</record>		
+	</definition>
+</data>
