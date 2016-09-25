@@ -6,8 +6,9 @@ import flixel.FlxState;
 import flixel.text.FlxText;
 import flixel.ui.FlxButton;
 import flixel.math.FlxMath;
-import flixel.util.FlxColor;
 import flixel.addons.ui;
+import flixel.util.FlxColor;
+
 
 import Hex.*;
 import Math.*;
